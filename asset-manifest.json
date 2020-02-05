@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/stocks-react/static/js/main.309f669d.chunk.js",
-    "main.js.map": "/stocks-react/static/js/main.309f669d.chunk.js.map",
+    "main.js": "/stocks-react/static/js/main.ca24420a.chunk.js",
+    "main.js.map": "/stocks-react/static/js/main.ca24420a.chunk.js.map",
     "runtime-main.js": "/stocks-react/static/js/runtime-main.795b15d6.js",
     "runtime-main.js.map": "/stocks-react/static/js/runtime-main.795b15d6.js.map",
     "static/js/2.acce704d.chunk.js": "/stocks-react/static/js/2.acce704d.chunk.js",
     "static/js/2.acce704d.chunk.js.map": "/stocks-react/static/js/2.acce704d.chunk.js.map",
     "index.html": "/stocks-react/index.html",
-    "precache-manifest.8cd6dee3d4f1b4b36c60e4b0616f0586.js": "/stocks-react/precache-manifest.8cd6dee3d4f1b4b36c60e4b0616f0586.js",
+    "precache-manifest.e2e588714576ff0b880a0cc9ef1bacac.js": "/stocks-react/precache-manifest.e2e588714576ff0b880a0cc9ef1bacac.js",
     "service-worker.js": "/stocks-react/service-worker.js",
     "static/js/2.acce704d.chunk.js.LICENSE": "/stocks-react/static/js/2.acce704d.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.795b15d6.js",
     "static/js/2.acce704d.chunk.js",
-    "static/js/main.309f669d.chunk.js"
+    "static/js/main.ca24420a.chunk.js"
   ]
 }
