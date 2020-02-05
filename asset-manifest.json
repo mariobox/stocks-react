@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/static/js/main.ca24420a.chunk.js",
-    "main.js.map": "/static/js/main.ca24420a.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.61a6169b.js",
-    "runtime-main.js.map": "/static/js/runtime-main.61a6169b.js.map",
-    "static/js/2.acce704d.chunk.js": "/static/js/2.acce704d.chunk.js",
-    "static/js/2.acce704d.chunk.js.map": "/static/js/2.acce704d.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.85266a36fa226baf1a9f353334a4b1f9.js": "/precache-manifest.85266a36fa226baf1a9f353334a4b1f9.js",
-    "service-worker.js": "/service-worker.js",
-    "static/js/2.acce704d.chunk.js.LICENSE": "/static/js/2.acce704d.chunk.js.LICENSE"
+    "main.js": "/stocks-react/static/js/main.ca24420a.chunk.js",
+    "main.js.map": "/stocks-react/static/js/main.ca24420a.chunk.js.map",
+    "runtime-main.js": "/stocks-react/static/js/runtime-main.795b15d6.js",
+    "runtime-main.js.map": "/stocks-react/static/js/runtime-main.795b15d6.js.map",
+    "static/js/2.acce704d.chunk.js": "/stocks-react/static/js/2.acce704d.chunk.js",
+    "static/js/2.acce704d.chunk.js.map": "/stocks-react/static/js/2.acce704d.chunk.js.map",
+    "index.html": "/stocks-react/index.html",
+    "precache-manifest.e2e588714576ff0b880a0cc9ef1bacac.js": "/stocks-react/precache-manifest.e2e588714576ff0b880a0cc9ef1bacac.js",
+    "service-worker.js": "/stocks-react/service-worker.js",
+    "static/js/2.acce704d.chunk.js.LICENSE": "/stocks-react/static/js/2.acce704d.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.61a6169b.js",
+    "static/js/runtime-main.795b15d6.js",
     "static/js/2.acce704d.chunk.js",
     "static/js/main.ca24420a.chunk.js"
   ]
